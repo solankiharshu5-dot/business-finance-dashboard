@@ -1,7 +1,0 @@
-Date,Category,Type,Amount,Payment_Mode,Description
-2026-01-01,Sales,Income,50000,UPI,Product sale
-2026-01-02,Rent,Expense,15000,Bank,Office rent
-2026-01-03,Salary,Expense,20000,Bank,Employee salary
-2026-01-05,Marketing,Expense,8000,Card,Ads campaign
-2026-01-07,Sales,Income,60000,UPI,Product sale
-2026-01-10,Utilities,Expense,5000,UPI,Electricity bill
